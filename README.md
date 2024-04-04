@@ -14,7 +14,7 @@ No es necesario obtener una computadora de ultimo modelo por lo general se puede
 ## Despliegue
 1. Para ello se debe de ejecutar primero un manejador de base de datos el archivo BD.sql con la que se creara la base de datos "Productos" y 
 las tablas producto y inventorytransactions.
-2. Despues de ello al final solo se requeri ejecutar el archivo main.py y listo.
+2. Despues de ello al final solo se requiere ejecutar el archivo main.py y listo.
 
 ## Aplicación
 1. **Agregar Producto:**
