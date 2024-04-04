@@ -41,6 +41,11 @@ las tablas producto y inventorytransactions.
     
    ![image](https://github.com/KD-Purple/APP_Gestion_Stock/assets/71620391/8cf65b8b-38c0-40d9-adf1-e759c6b1037b)
 
+## Stack de tecnologias usadas
+- Visual Studio Code (Editor de codigo)
+- Lenguaje de Programacion: Python v.3.9.1
+- Base de datos: Mysql v.5.7
+
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE.md](https://github.com/KD-Purple/APP_Gestion_Stock/blob/main/LICENSE) para más detalles.
