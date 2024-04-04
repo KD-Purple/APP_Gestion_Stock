@@ -18,6 +18,7 @@ las tablas producto y inventorytransactions.
 
 ## Aplicación
 1. ** Agregar Producto: **
+   
    ![image](https://github.com/KD-Purple/APP_Gestion_Stock/assets/71620391/de9778ab-9c03-4470-92ec-904a7b24f2b4)
 
 2. ** Consultar Producto: **
